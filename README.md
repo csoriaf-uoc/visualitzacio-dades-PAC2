@@ -15,8 +15,8 @@
 
 Pots accedir a la visualització final publicada a través de GitHub Pages o explorar els fitxers directament al repositori.
 
-* **Lloc Web Publicat (GitHub Pages):** `https://csoriaf-uoc.github.io/visualitzacio-dades-PAC2/`
 * **Repositori:** `https://github.com/csoriaf-uoc/visualitzacio-dades-PAC2`
+* **Lloc Web Publicat (GitHub Pages):** `https://csoriaf-uoc.github.io/visualitzacio-dades-PAC2/`
 
 ---
 
